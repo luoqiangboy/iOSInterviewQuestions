@@ -1,4 +1,4 @@
-# iOSInterviewQuestions（面试题学习交流群：515295083）
+# iOSInterviewQuestions
 
 <p align="center"><a href="https://twitter.com/stevechen1010"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000"></a><a href="http://weibo.com/luohanchenyilong"><img src="http://i67.tinypic.com/wbulbr.jpg"></a></a>
 
